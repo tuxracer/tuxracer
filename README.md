@@ -16,7 +16,7 @@ I'm a software engineer living between Las Vegas and San Francisco, building thi
 
 ### 🎵 Listening to right now:
 
-- [Lights Get Low](https://www.youtube.com/watch?v=-o-hpiTDeJM&t=4m47s)
+- [Break My Love](https://www.youtube.com/watch?v=lnZusjEtLUQ)
 
 ### 🌱 Currently exploring:
 
