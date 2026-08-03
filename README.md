@@ -11,7 +11,7 @@ I'm a software engineer living between Las Vegas and San Francisco, building thi
 
 ### 🛠️ Current Projects:
 
-- **[dashradar.app](https://dashradar.app):** Police detection on your dash using just your phone.
+- **[dashradar.app](https://dashradar.app):** Object detection enhanced dashcam using your phone.
 - **[tuxbank.app](https://tuxbank.app):** Privacy first calendar budget app.
 
 ### 🎵 Listening to right now:
