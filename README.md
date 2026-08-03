@@ -11,8 +11,8 @@ I'm a software engineer living between Las Vegas and San Francisco, building thi
 
 ### 🛠️ Current Projects:
 
-- **Object Detection Dashcam:** Enhancing driver safety using ML object detection and real time situational awareness.
-- **Decentralized Road Reporting:** Exploring how ActivityPub can help drivers share real time road conditions without central servers.
+- **[dashradar.app](https://dashradar.app):** Police detection on your dash using just your phone.
+- **[tuxbank.app](https://tuxbank.app):** Privacy first calendar budget app.
 
 ### 🎵 Listening to right now:
 
